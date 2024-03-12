@@ -80,7 +80,9 @@ dfn {
 
 .section--image {
   background-image: url(/assets/images/hehe.jpeg);
+  background-size: cover;
   background-position: center center;
+  background-repeat: no-repeat;
 }
 
 .image__question {
