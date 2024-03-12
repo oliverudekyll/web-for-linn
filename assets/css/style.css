@@ -121,6 +121,8 @@ dfn {
 figure {
   padding: 1rem;
   width: 100%;
+
+  overflow: hidden;
 }
 
 figure > img {
